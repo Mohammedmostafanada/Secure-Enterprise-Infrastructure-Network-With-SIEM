@@ -250,7 +250,6 @@ Security is not delegated solely to the perimeter firewall. By locking down swit
 ## Project Team
 
 Architected, configured, and documented as part of the B.Sc. Computer Science & Engineering Graduation Project.
-
-| Name | Role |
-| --- | --- |
-| Mohamed Mostafa Nada | Network Infrastructure Engineer |
+---
+> ✍️ **Architected & Deployed by:**
+> **[Mohamed Mostafa Nada]** — *Network Infrastructure Engineer*
